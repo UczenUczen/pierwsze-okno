@@ -9,5 +9,6 @@
         Height="300"
         WindowStartupLocation="CenterScreen">
         
-     <TextBlock Text="Zadanie 2.2" />
+     <TextBlock Text="Zadanie 2.2" 
+     FontSize="32"/>
 </Window>

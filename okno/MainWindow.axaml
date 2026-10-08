@@ -10,5 +10,6 @@
         WindowStartupLocation="CenterScreen">
         
      <TextBlock Text="Zadanie 2.2" 
-     FontSize="32"/>
+     FontSize="32"
+     FontWeight="Bold"/>
 </Window>

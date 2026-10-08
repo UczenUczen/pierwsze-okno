@@ -12,5 +12,6 @@
      <TextBlock Text="Zadanie 2.2" 
      FontSize="32"
      FontWeight="Bold"
-     FontStyle="Italic"/>
+     FontStyle="Italic"
+     Foreground="#e61c66"/>
 </Window>

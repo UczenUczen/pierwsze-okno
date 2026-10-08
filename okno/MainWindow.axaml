@@ -9,5 +9,5 @@
         Height="300"
         WindowStartupLocation="CenterScreen">
         
-    Patrycja 4Ta  
+     <TextBlock Text="Zadanie 2.2" />
 </Window>
